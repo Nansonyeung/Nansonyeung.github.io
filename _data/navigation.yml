@@ -25,7 +25,7 @@ header:
       # @end locale config
     url: https://nansonyeung.github.io/
 
-  - titles:
+  - titles: test name
       # @start locale config
       en      : &EN       About
       en-GB   : *EN
@@ -49,4 +49,4 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: https://nansonyeung.github.io/
