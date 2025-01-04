@@ -1,5 +1,5 @@
 header:
-  - titles:
+  - titles: Nanson's Web
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: https://nansonyeung.github.io/
 
   - titles:
       # @start locale config
