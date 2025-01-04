@@ -1,3 +1,5 @@
+sidebar:
+  nav: docs-en
 header:
   - title:      Project
     url:        /docs/en/quick-start
